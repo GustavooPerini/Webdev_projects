@@ -1,5 +1,4 @@
 const myInput = document.getElementById("myInput");
-const submit = document.getElementById("submit");
 const result = document.getElementById("result");
 
 const MIN = 1;
