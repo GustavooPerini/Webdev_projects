@@ -1,0 +1,29 @@
+#container{
+    text-align: center;
+}
+
+
+.myButton{
+    min-height: 50px;
+    width: 120px;
+    font-size: 3em;
+    text-align: center;
+    border-radius: 10px;
+    background-color: hsl(219, 98%, 57%);
+    cursor: pointer;
+    
+}
+
+.myButton:hover{
+    background-color: hsl(219, 97%, 66%);
+}
+
+#resetB{
+    font-size: 1.8em;
+}
+
+#score{
+    font-family: Helvetica, sans-serif;
+    font-size: 7em;
+    padding: 50px 50px;
+}
